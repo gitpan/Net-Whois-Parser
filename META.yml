@@ -16,7 +16,7 @@ name: Net-Whois-Parser
 provides:
   Net::Whois::Parser:
     file: lib/Net/Whois/Parser.pm
-    version: 0.04
+    version: 0.05
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.04
+version: 0.05
